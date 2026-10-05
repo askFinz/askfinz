@@ -49,7 +49,7 @@ askFinz is an AI platform built on its own index of the web. One sign-in gives y
 - [AI project management: boards, tickets, sprints](docs/workspaces/project.md): Project management wired into the rest of askFinz. Issues link to commits, chats, docs and email. Boards, sprints, burndowns and a real risk feed.
 - [AI personal finance: every bank account in one place](docs/workspaces/bank.md): Your day-to-day money in one workspace. Every account in one place, transactions categorised, bills tracked, and plain-English statements.
 - [Social media scheduling and analytics](docs/workspaces/socials.md): A social network built into the askFinz platform — post, thread, react, follow, on a feed that moves at your pace, not an algorithm's.
-- [Product feedback and bug tracker](docs/workspaces/feedback.md): Report bugs, request features and vote on what gets built next. Staff triage in real time, with status changes and comment threads visible to everyone.
+- [Product feedback and bug tracker](docs/workspaces/feedback.md): The public feedback portal for the askFinz platform. Report bugs with severity and reproduction steps, request features with a why and examples, and vote on what the team should build next. Staff triage issues in real time — status changes, comment threads and resolution banners are visible to everyone the moment they happen.
 - [Single sign-on for every workspace](docs/workspaces/access.md): One sign-in for every askFinz workspace and device. Switch between up to four identities, manage sessions remotely and recover without a support ticket.
 
 ## Integrations
