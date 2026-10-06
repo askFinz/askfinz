@@ -146,4 +146,4 @@ askFinz is an AI platform built on its own index of the web. One sign-in gives y
 
 Every file here is a structured summary generated from the matching page on askfinz.com, and links back to it. The website is the source of truth; if the two ever differ, trust the site.
 
-Generated 2026-10-05.
+Generated 2026-10-06.
