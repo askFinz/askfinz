@@ -1,18 +1,10 @@
 # Product feedback and bug tracker
 
-Report bugs, request features and vote on what gets built next. Staff triage in real time, with status changes and comment threads visible to everyone.
+The public feedback portal for the askFinz platform. Report bugs with severity and reproduction steps, request features with a why and examples, and vote on what the team should build next. Staff triage issues in real time — status changes, comment threads and resolution banners are visible to everyone the moment they happen.
 
 **Canonical page:** [https://askfinz.com/apps/feedback](https://askfinz.com/apps/feedback)
 
 ## Key points
-
-### One place for bugs, requests and the conversation around both
-
-Feedback is built for transparency. Staff triage happens in public — every status change, every comment, every resolution banner is visible to the whole community the moment it lands.
-
-### A vote ticks up. A status changes. The community sees both
-
-A scripted walk-through — the P0 issue picks up a vote, the tab filter switches to open, and an in-progress fix moves to awaiting verify with a live status flash. Try the real thing at feedback.askfinz.ai.
 
 ### What ships today
 
