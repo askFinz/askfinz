@@ -6,6 +6,10 @@ Simple plans for askFinz — from a free Explorer tier to Pro, Business and cust
 
 ## Key points
 
+### Add more when you need it
+
+Optional extras that sit on top of whatever plan you're on — billed separately, cancel any time.
+
 ### Cheaper than everyone. By a lot
 
 $ 0.020 /GB storage and zero egress fees — backed by a 2-tier EU redundancy system that switches over automatically in under 60 seconds.
