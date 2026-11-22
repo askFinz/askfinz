@@ -26,6 +26,10 @@ askFinz operates globally. Your data may be transferred to and processed in coun
 
 We implement industry-standard technical and organisational measures to protect your data, including encryption in transit (TLS 1.2+) and at rest (AES-256), access controls, regular security audits, and vulnerability management programmes.
 
+### 9A. Anonymous diagnostics in the askFinz app
+
+The askFinz app for Android and iPhone can send us reports when it crashes, stops responding, closes unexpectedly, or freezes. We use them only to find and fix problems in the app.
+
 ### 10. Children's Privacy
 
 The Services are not directed to individuals under 18 years of age. We do not knowingly collect personal data from minors.
